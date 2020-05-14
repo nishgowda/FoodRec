@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Oats</key>
+	<dict>
+		<key>label</key>
+		<string>Oats</string>
+		<key>Nutrition</key>
+		<string>Calories: 246g Protein: 17g Fat: 7g Carbohydrates: 66g</string>
+	</dict>
+	<key>Almond Milk</key>
+	<dict>
+		<key>label</key>
+		<string>Almond Milk</string>
+		<key>Nutrition</key>
+		<string>Calories: 36 Protein: 0.4g Fat: 1g Carbohydrates: 6.6g</string>
+	</dict>
+	<key>Tofu</key>
+	<dict>
+		<key>label</key>
+		<string>Tofu</string>
+		<key>Nutrition</key>
+		<string>Calories: 270 Protein: 19g Fat: 20g Carbohydrates: 8.9g</string>
+	</dict>
+	<key>Hummus</key>
+	<dict>
+		<key>label</key>
+		<string>Hummus</string>
+		<key>Nutrition</key>
+		<string>Calories: 237 Protein: 7.8g Fat: 18g Carbohydrates: 15g</string>
+	</dict>
+	<key>Peanut Butter</key>
+	<dict>
+		<key>label</key>
+		<string>Peanut Butter</string>
+		<key>Nutrition</key>
+		<string>Calories: 588 Protein: 22g Fat: 50g Carbohydrates: 24g</string>
+	</dict>
+	<key>Kidney Beans</key>
+	<dict>
+		<key>label</key>
+		<string>Kidney Beans</string>
+		<key>Nutrition</key>
+		<string>Calories: 337 Protein: 23g Fat: 1.1g Carbphydrates: 61g</string>
+	</dict>
+	<key>Chickpeas</key>
+	<dict>
+		<key>label</key>
+		<string>Chickpeas</string>
+		<key>Nutrition</key>
+		<string>Calories: 378 Protein: 20g Fat: 6g Carbohydrates: 63g</string>
+	</dict>
+	<key>Lentils</key>
+	<dict>
+		<key>label</key>
+		<string>Lentils</string>
+		<key>Nutrition</key>
+		<string>Calories: 352 Protein: 25g Fat: 1.1g Carbohydrates: 63g</string>
+	</dict>
+	<key>Kiwi</key>
+	<dict>
+		<key>label</key>
+		<string>Kiwi</string>
+		<key>Nutrition</key>
+		<string>Calories: 61 Protein: 1.1g Fat: 0.5g Carbohydrates: 15g</string>
+	</dict>
+	<key>Apple</key>
+	<dict>
+		<key>label</key>
+		<string>Apple</string>
+		<key>Nutrition</key>
+		<string>Calories: 52 Protein: 0.3g Fat: 0.2g Carbohydrates: 14g</string>
+	</dict>
+	<key>Banana</key>
+	<dict>
+		<key>label</key>
+		<string>Banana</string>
+		<key>Nutrition</key>
+		<string>Calories: 89 Protein: 1.1g Fat: 0.3g Carbohydrates: 23g</string>
+	</dict>
+	<key>Orange</key>
+	<dict>
+		<key>label</key>
+		<string>Orange</string>
+		<key>Nutrition</key>
+		<string>Calories: 46 Protein: 0.7g Fat: 0.2g Carbohydrates: 12g</string>
+	</dict>
+	<key>Avocado</key>
+	<dict>
+		<key>label</key>
+		<string>Avocado</string>
+		<key>Nutrition</key>
+		<string>Calories: 120 Protein: 2.2g Fat: 10g Carbohydrates: 7.8g</string>
+	</dict>
+	<key>Broccoli</key>
+	<dict>
+		<key>label</key>
+		<string>Avocado</string>
+		<key>Nutrition</key>
+		<string>Calories: 34 Protein: 2.8g Fat: 0.4g Carbohydrates: 6.6g</string>
+	</dict>
+	<key>Spinach</key>
+	<dict>
+		<key>label</key>
+		<string>Spinach</string>
+		<key>Nutrition</key>
+		<string>Calories: 23 Protein: 2.9 Fat: 0.4g Carbohydrates: 3.6g</string>
+	</dict>
+	<key>Brussel Sprouts</key>
+	<dict>
+		<key>label</key>
+		<string>Brussel Sprouts</string>
+		<key>Nutrition</key>
+		<string>Calories: 43 Protein: 3.4g Fat: 0.3g Carbohydrates: 9g</string>
+	</dict>
+	<key>Sweet Potato</key>
+	<dict>
+		<key>label</key>
+		<string>Sweet Potato</string>
+		<key>Nutrition</key>
+		<string>Calories: 86 Protein: 1.6g Fat: 0.1g Carbohydrates: 20g</string>
+	</dict>
+	<key>Eggplant</key>
+	<dict>
+		<key>label</key>
+		<string>Eggplant</string>
+		<key>Nutrition</key>
+		<string>Calories: 25 Protein: 1g Fat: 0.2g Carbohydrates: 5.9g</string>
+	</dict>
+	<key>Mushrooms</key>
+	<dict>
+		<key>label</key>
+		<string>Eggplant</string>
+		<key>Nutrition</key>
+		<string>Calories: 22 Protein: 3.1g Fat: 0.3g Carbohydrates: 3.3g</string>
+	</dict>
+	<key>Almonds</key>
+	<dict>
+		<key>label</key>
+		<string>Almonds</string>
+		<key>Nutrition</key>
+		<string>Calories: 579 Protein: 21g Fat: 50g Carbohydrates: 22g</string>
+	</dict>
+	<key>Walnuts</key>
+	<dict>
+		<key>label</key>
+		<string>Walnuts</string>
+		<key>Nutrition</key>
+		<string>Calories: 654 Protein: 15g Fat: 65g Carbohydrates: 14g</string>
+	</dict>
+	<key>Cashews</key>
+	<dict>
+		<key>label</key>
+		<string>Cashews</string>
+		<key>Nutrition</key>
+		<string>Calories: 533 Protein: 18g Fat: 44g Carbohydrates: 30g</string>
+	</dict>
+	<key>Brown Rice</key>
+	<dict>
+		<key>label</key>
+		<string>Brown Rice</string>
+		<key>Nutrition</key>
+		<string>Calories: 367 Protein: 7.5g Fat: 3.2g Carbohydrates: 76g</string>
+	</dict>
+	<key>Rice Cakes</key>
+	<dict>
+		<key>label</key>
+		<string>Rice Cakes</string>
+		<key>Nutrition</key>
+		<string>Calories: 386 Protein: 8.1g Fat: 3.8g Carbohydrates: 80g</string>
+	</dict>
+</dict>
+</plist>
